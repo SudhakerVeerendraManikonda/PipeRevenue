@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="assign3.TimingTest" tests="1" failures="0" errors="0" timestamp="2013-11-09T06:00:25" hostname="Veeru-PC" time="0.025">
+  <properties/>
+  <testcase name="testCompareTimeBetweenAlgorithms" classname="assign3.TimingTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
